@@ -1,4 +1,4 @@
-package Packs;
+package A_Packs;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.awt.event.InputEvent;
@@ -47,6 +47,7 @@ import java.awt.event.InputEvent;
 
                 // Enter the password
                 String password = "Password";
+                //No Caps in password use this below code.
 //                for (char c : password.toCharArray()) {
 //                    robot.keyPress(KeyEvent.getExtendedKeyCodeForChar(c));
 //                    robot.keyRelease(KeyEvent.getExtendedKeyCodeForChar(c));
