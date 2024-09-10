@@ -99,7 +99,15 @@
        <artifactId>testng</artifactId>
        <version>7.10.2</version>
      </dependency>
-<!--     <dependency>-->
+
+     <!-- https://mvnrepository.com/artifact/org.sikuli/sikuli-core -->
+     <dependency>
+       <groupId>org.sikuli</groupId>
+       <artifactId>sikuli-core</artifactId>
+       <version>1.2.2</version>
+     </dependency>
+
+     <!--     <dependency>-->
 <!--       <groupId>com.smartbear</groupId>-->
 <!--       <artifactId>testleft</artifactId>-->
 <!--       <version>4.10</version>-->

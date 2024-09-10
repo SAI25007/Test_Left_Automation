@@ -19,4 +19,8 @@ public class TestLeft_Code {
 //    ...........
 //    ............
 //    btnFind.click();
+
+    // Text Box to enter text
+
+    // TextBox.keys("String")
 }
